@@ -10,10 +10,6 @@ a salary estimation tool using Python. The tool aims to provide accurate salary 
 - [Overview](#overview)
 - [Project Details](#project-details)
 - [Dataset](#dataset)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
 - [Model](#model)
 - [Results](#results)
 
